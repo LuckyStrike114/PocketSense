@@ -1,5 +1,9 @@
 # PocketSense
 
+<p align="center">
+  <img src="./homescreen.png" width="300"/>
+</p>
+
 PocketSense is a mobile application built with Expo and React Native that demonstrates the use of device sensors, user interaction, and basic performance monitoring.
 
 The application provides insight into user activity, movement, stability, ambient light conditions, and includes a motion-based alarm system.
